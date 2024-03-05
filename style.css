@@ -1,0 +1,25 @@
+img{
+    height: 100px;
+    width: 100px;
+
+
+}
+body{
+    background-color:darkred;
+    color: black;
+font-size: 15px;
+font-style: sans-serif;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+}
+header{
+
+
+text-align: center;
+text-decoration: solid;
+color: black;
+font-size: 30px;
+}
