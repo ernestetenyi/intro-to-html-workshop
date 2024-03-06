@@ -1,0 +1,34 @@
+img{
+    height: 300px;
+    width: 300px;
+
+
+}
+body{
+    background-color:rgb(31, 12, 12);
+    color: rgb(255, 255, 255);
+font-size: 15px;
+font-style: sans-serif;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+}
+header{
+
+
+text-align: center;
+text-decoration: solid;
+color: rgb(219, 212, 212);
+font-size: 30px;
+letter-spacing: 2px;
+line-height: 1.5;
+}
+footer{
+    text-align: center;
+    text-decoration: solid;
+    color: aliceblue;
+    font-size: 30px;
+}
+
